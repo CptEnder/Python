@@ -1,0 +1,3 @@
+easy 02:12
+medium 02:53
+hard 08:27
